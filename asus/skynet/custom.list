@@ -8,6 +8,7 @@ https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
+https://iplists.firehol.org/files/firehol_level4.netset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
@@ -16,3 +17,11 @@ https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
+http://lists.blocklist.de/lists/bots.txt
+http://security-research.dyndns.org/pub/malware-feeds/ponmocup-infected-domains-shadowserver.csv
+http://lists.blocklist.de/lists/bots.txt
+http://lists.blocklist.de/lists/ssh.txt
+http://lists.blocklist.de/lists/ftp.txt
+http://lists.blocklist.de/lists/bruteforcelogin.txt
+http://cdn1.iblocklist.com/files/khb6awgvtx9ag89djxow/dgxtneitpuvgqqcpfulq.gz
+http://list.iblocklist.com/?list=llvtlsjyoyiczbkjsxpf&fileformat=p2p&archiveformat=gz
